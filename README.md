@@ -6,6 +6,16 @@ One of the main reasons for this project is the sync between the mongoDB databas
 This is a unlisted video and only accessable through this link
 https://www.youtube.com/watch?v=kwxGbO6Yzvc&feature=youtu.be
 
+### TODO
+1) Make a DB for user auth, select a HASH digest function
+2) Make better tokenizers for search
+3) Add real products to make more sense out of the data
+
+### Changes
+31/10/2018
+1) Implemented JTW auth, routes are now secure
+2) Implemented Redux for state management in frontend
+
 ## Pre-Requisites
 1) A working mongoDB installation
 	start the mongoDB server using the following command to start it as a replica set
