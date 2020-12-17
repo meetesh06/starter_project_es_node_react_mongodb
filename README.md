@@ -1,5 +1,5 @@
 # Introduction
-
+## Part Of JP TOKYO Internship
 This is a sample project to get started Mongodb + Elasticsearch + mongo-connector + nodeJS + React stack. This project uses nodeJS as middleware for access to elastic-search and mongoDB. The security used for authentication is based on JWT tokens, which is a good way to achieve stateless/passive authentication, without maintaining a active session database.
 One of the main reasons for this project is the sync between the mongoDB database and ElasticSearch automatically using python library mongo-connector.
 
